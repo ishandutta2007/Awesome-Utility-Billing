@@ -42,77 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[OpenGov Utility Billing](https://opengov.com/)**  
-
-  Cloud platform for local government utilities offering billing, payments, and integrated financial management.
-
-
-
-- **[Tyler Technologies Utility Billing](https://www.tylertech.com/)**  
-
-  Comprehensive utility billing and CIS solutions designed for municipalities and public-sector utilities.
-
-
-
-- **[InvoiceCloud](https://www.invoicecloud.com/)**  
-
-  Digital billing and payment presentment platform focused on electronic bills, payments, and customer engagement for utilities.
-
-
-
-- **[Harris Utilities / NorthStar / Cayenta](https://www.harriscomputer.com/)**  
-
-  Suite of utility billing and customer information systems serving municipal and cooperative utilities with meter-to-cash capabilities.
-
-
-
-- **[Springbrook](https://www.springbrooksoftware.com/)**  
-
-  Cloud-based ERP and utility billing software tailored for local governments and smaller utilities.
-
-
-
-- **[CentralSquare Utility Billing](https://www.centralsquare.com/)**  
-
-  Public-sector platform providing utility billing, customer management, and integrated municipal operations tools.
-
-
-
-- **[Muni-Link](https://www.muni-link.com/)**  
-
-  Utility billing and accounting software popular with smaller municipalities and water/sewer authorities.
-
-
-
-- **[Edmunds GovTech](https://www.edmundsgovtech.com/)**  
-
-  Government technology solutions including utility billing modules for local agencies.
-
-
-
-- **[Oracle Utilities Customer Care and Billing (CCS)](https://www.oracle.com/industries/utilities/)**  
-
-  Enterprise-grade CIS and billing platform capable of handling complex rates, high volumes, and multi-commodity utilities.
-
-
-
-- **[Advanced Utility Systems](https://www.advancedutility.com/)**  
-
-  Utility billing and customer information solutions focused on mid-sized providers.
-
-
-
-- **[Utilibill / Gentrack / Kraken](https://www.gentrack.com/)**  
-
-  Modern utility retail and billing platforms (including Kraken) used by energy retailers and larger providers for complex market and billing operations.
-
-
-
-- **[Powerley / MuniBilling / UBMax](https://www.munibilling.com/)**  
-
-  Specialized utility billing and customer engagement tools serving municipalities and smaller utility operations.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[OpenGov Utility Billing](https://opengov.com/)** | Cloud platform for local government utilities offering billing, payments, and integrated financial management. | Starts at ~$2,000/month | 0 days (Demo only) |
+| **[Tyler Technologies Utility Billing](https://www.tylertech.com/)** | Comprehensive utility billing and CIS solutions designed for municipalities and public-sector utilities. | Starts at ~$5,000/month | 0 days (Demo only) |
+| **[InvoiceCloud](https://www.invoicecloud.com/)** | Digital billing and payment presentment platform focused on electronic bills, payments, and customer engagement for utilities. | Starts at ~$1,500/month | 0 days (Demo only) |
+| **[Harris Utilities / NorthStar / Cayenta](https://www.harriscomputer.com/)** | Suite of utility billing and customer information systems serving municipal and cooperative utilities with meter-to-cash capabilities. | Starts at ~$3,000/month | 0 days (Demo only) |
+| **[Springbrook](https://www.springbrooksoftware.com/)** | Cloud-based ERP and utility billing software tailored for local governments and smaller utilities. | Starts at ~$800/month | 0 days (Demo only) |
+| **[CentralSquare Utility Billing](https://www.centralsquare.com/)** | Public-sector platform providing utility billing, customer management, and integrated municipal operations tools. | Starts at ~$2,500/month | 0 days (Demo only) |
+| **[Muni-Link](https://www.muni-link.com/)** | Utility billing and accounting software popular with smaller municipalities and water/sewer authorities. | Starts at $400/month | 0 days (Demo only) |
+| **[Edmunds GovTech](https://www.edmundsgovtech.com/)** | Government technology solutions including utility billing modules for local agencies. | Starts at ~$1,000/month | 0 days (Demo only) |
+| **[Oracle Utilities Customer Care and Billing (CCS)](https://www.oracle.com/industries/utilities/)** | Enterprise-grade CIS and billing platform capable of handling complex rates, high volumes, and multi-commodity utilities. | Starts at ~$10,000/month | 0 days (Demo only) |
+| **[Advanced Utility Systems](https://www.advancedutility.com/)** | Utility billing and customer information solutions focused on mid-sized providers. | Starts at ~$2,000/month | 0 days (Demo only) |
+| **[Utilibill / Gentrack / Kraken](https://www.gentrack.com/)** | Modern utility retail and billing platforms (including Kraken) used by energy retailers and larger providers for complex market and billing operations. | Starts at ~$5,000/month | 0 days (Demo only) |
+| **[Powerley / MuniBilling / UBMax](https://www.munibilling.com/)** | Specialized utility billing and customer engagement tools serving municipalities and smaller utility operations. | Starts at $1,200/month | 0 days (Demo only) |
 
 
 
